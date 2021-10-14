@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>22-06-2021 - 11:57:48</Generatedon>
+    <Parser>OpenCoverParser</Parser>
+    <Assemblies>3</Assemblies>
+    <Classes>18</Classes>
+    <Files>18</Files>
+    <Coveredlines>122</Coveredlines>
+    <Uncoveredlines>189</Uncoveredlines>
+    <Coverablelines>311</Coverablelines>
+    <Totallines>656</Totallines>
+    <Linecoverage>39.2</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+  </Summary>
+  <Coverage>
+    <Assembly name="AriumFramework" classes="15" coverage="30.9" coveredlines="51" coverablelines="165" totallines="385" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="AriumFramework.Arium" coverage="58.6" coveredlines="17" coverablelines="29" totallines="56" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.AriumObjectTracker" coverage="100" coveredlines="6" coverablelines="6" totallines="20" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Exceptions.ComponentNotFoundException" coverage="0" coveredlines="0" coverablelines="3" totallines="13" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Exceptions.GameObjectNotFoundException" coverage="0" coveredlines="0" coverablelines="3" totallines="11" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Exceptions.InteractionNotFoundException" coverage="0" coveredlines="0" coverablelines="3" totallines="11" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.GameObjectWrapper" coverage="73.5" coveredlines="25" coverablelines="34" totallines="65" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Interaction[T]" coverage="0" coveredlines="0" coverablelines="17" totallines="37" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Extensions.AnimatorUtils" coverage="0" coveredlines="0" coverablelines="3" totallines="13" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Extensions.TextUtils" coverage="100" coveredlines="3" coverablelines="3" totallines="13" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityAnimationTrigger" coverage="0" coveredlines="0" coverablelines="8" totallines="20" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityDrag" coverage="0" coveredlines="0" coverablelines="8" totallines="24" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityPointerClick" coverage="0" coveredlines="0" coverablelines="14" totallines="28" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityPointerEnter" coverage="0" coveredlines="0" coverablelines="14" totallines="28" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityPointerExit" coverage="0" coveredlines="0" coverablelines="14" totallines="28" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityPushObject" coverage="0" coveredlines="0" coverablelines="6" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="Assembly-CSharp" classes="2" coverage="100" coveredlines="32" coverablelines="32" totallines="72" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Collectable" coverage="100" coveredlines="7" coverablelines="7" totallines="19" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Controller" coverage="100" coveredlines="25" coverablelines="25" totallines="53" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="GameTests" classes="1" coverage="34.2" coveredlines="39" coverablelines="114" totallines="199" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Tests.GameUnitTests" coverage="34.2" coveredlines="39" coverablelines="114" totallines="199" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

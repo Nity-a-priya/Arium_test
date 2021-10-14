@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARAssembly", "ARAssembly.csproj", "{C3A9AAC7-CFBB-7C9E-1806-FE554D359EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AriumFramework", "AriumFramework.csproj", "{84E9C0E7-7C3F-FD3B-FA3B-FAF9837FE63C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTests", "GameTests.csproj", "{6205730C-E0E7-6261-D305-7443B6EC84EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A9AAC7-CFBB-7C9E-1806-FE554D359EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A9AAC7-CFBB-7C9E-1806-FE554D359EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A9AAC7-CFBB-7C9E-1806-FE554D359EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A9AAC7-CFBB-7C9E-1806-FE554D359EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E9C0E7-7C3F-FD3B-FA3B-FAF9837FE63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E9C0E7-7C3F-FD3B-FA3B-FAF9837FE63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E9C0E7-7C3F-FD3B-FA3B-FAF9837FE63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E9C0E7-7C3F-FD3B-FA3B-FAF9837FE63C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6205730C-E0E7-6261-D305-7443B6EC84EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6205730C-E0E7-6261-D305-7443B6EC84EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6205730C-E0E7-6261-D305-7443B6EC84EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6205730C-E0E7-6261-D305-7443B6EC84EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
