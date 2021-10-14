@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>14-10-2021 - 17:03:03</Generatedon>
+    <Parser>MultiReportParser (2x OpenCoverParser)</Parser>
+    <Assemblies>4</Assemblies>
+    <Classes>27</Classes>
+    <Files>24</Files>
+    <Coveredlines>154</Coveredlines>
+    <Uncoveredlines>885</Uncoveredlines>
+    <Coverablelines>1039</Coverablelines>
+    <Totallines>2060</Totallines>
+    <Linecoverage>14.8</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+  </Summary>
+  <Coverage>
+    <Assembly name="AriumFramework" classes="15" coverage="30.9" coveredlines="51" coverablelines="165" totallines="385" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="AriumFramework.Arium" coverage="58.6" coveredlines="17" coverablelines="29" totallines="56" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.AriumObjectTracker" coverage="100" coveredlines="6" coverablelines="6" totallines="20" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Exceptions.ComponentNotFoundException" coverage="0" coveredlines="0" coverablelines="3" totallines="13" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Exceptions.GameObjectNotFoundException" coverage="0" coveredlines="0" coverablelines="3" totallines="11" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Exceptions.InteractionNotFoundException" coverage="0" coveredlines="0" coverablelines="3" totallines="11" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.GameObjectWrapper" coverage="73.5" coveredlines="25" coverablelines="34" totallines="65" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Interaction[T]" coverage="0" coveredlines="0" coverablelines="17" totallines="37" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Extensions.AnimatorUtils" coverage="0" coveredlines="0" coverablelines="3" totallines="13" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Extensions.TextUtils" coverage="100" coveredlines="3" coverablelines="3" totallines="13" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityAnimationTrigger" coverage="0" coveredlines="0" coverablelines="8" totallines="20" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityDrag" coverage="0" coveredlines="0" coverablelines="8" totallines="24" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityPointerClick" coverage="0" coveredlines="0" coverablelines="14" totallines="28" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityPointerEnter" coverage="0" coveredlines="0" coverablelines="14" totallines="28" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityPointerExit" coverage="0" coveredlines="0" coverablelines="14" totallines="28" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="AriumFramework.Plugins.UnityCore.Interactions.UnityPushObject" coverage="0" coveredlines="0" coverablelines="6" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="AriumTests" classes="1" coverage="100" coveredlines="63" coverablelines="63" totallines="107" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Tests.ARGame" coverage="100" coveredlines="63" coverablelines="63" totallines="107" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="GameAssembly" classes="4" coverage="78.4" coveredlines="40" coverablelines="51" totallines="134" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Collectable" coverage="42.8" coveredlines="3" coverablelines="7" totallines="21" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Controller" coverage="89.6" coveredlines="26" coverablelines="29" totallines="69" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="DefaultNamespace.InputHandler" coverage="50" coveredlines="4" coverablelines="8" totallines="22" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Scorescript" coverage="100" coveredlines="7" coverablelines="7" totallines="22" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="InputSystem.Samples.Visualizers" classes="7" coverage="0" coveredlines="0" coverablelines="760" totallines="3444" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="UnityEngine.InputSystem.Samples.InputActionVisualizer" coverage="0" coveredlines="0" coverablelines="173" totallines="322" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="UnityEngine.InputSystem.Samples.InputControlVisualizer" coverage="0" coveredlines="0" coverablelines="168" totallines="359" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="UnityEngine.InputSystem.Samples.InputVisualizer" coverage="0" coveredlines="0" coverablelines="42" totallines="83" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="UnityEngine.InputSystem.Samples.VisualizationHelpers" coverage="0" coveredlines="0" coverablelines="277" totallines="670" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="UnityEngine.InputSystem.Samples.VisualizationHelpersRingBuffer[TValue]" coverage="0" coveredlines="0" coverablelines="25" totallines="670" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="UnityEngine.InputSystem.Samples.VisualizationHelpersScalarVisualizer[TValue]" coverage="0" coveredlines="0" coverablelines="59" totallines="670" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="UnityEngine.InputSystem.Samples.VisualizationHelpersValueVisualizer[TValue]" coverage="0" coveredlines="0" coverablelines="16" totallines="670" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

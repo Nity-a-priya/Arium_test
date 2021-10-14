@@ -1,0 +1,195 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 System.Void Tests.ARGame::SetUp()
+extern void ARGame_SetUp_mB42D48F6CB97F6A79879139CBE451CD0D513CAED (void);
+// 0x00000002 System.Collections.IEnumerator Tests.ARGame::Validate5CubesArePresentOnSceneLoad()
+extern void ARGame_Validate5CubesArePresentOnSceneLoad_m4B9D729AA97F3977695BB3C63278E3251E8D984B (void);
+// 0x00000003 System.Collections.IEnumerator Tests.ARGame::ValidateInitialScoreIsZero()
+extern void ARGame_ValidateInitialScoreIsZero_mCFBD77784C69BF0622AA64BFA5FA6D71EDED9968 (void);
+// 0x00000004 System.Collections.IEnumerator Tests.ARGame::ValidateCubeIsDestroyedOnRaycast()
+extern void ARGame_ValidateCubeIsDestroyedOnRaycast_m6E86508E49AE0150472C29721B5E6A16FCCC4928 (void);
+// 0x00000005 System.Collections.IEnumerator Tests.ARGame::ValidateCubeIsDestroyedFromPeakDistance()
+extern void ARGame_ValidateCubeIsDestroyedFromPeakDistance_mCAE66937C3205E1BAE4C321DC1D1858D1870BF31 (void);
+// 0x00000006 System.Collections.IEnumerator Tests.ARGame::ValidateCubeIsDestroyedFromBeyondPeakDistance()
+extern void ARGame_ValidateCubeIsDestroyedFromBeyondPeakDistance_m342CFBA2ADFB8D6C0C2A0B04F4A2C046EB4EDCE2 (void);
+// 0x00000007 System.Void Tests.ARGame::tearDown()
+extern void ARGame_tearDown_m065EB9C6A8B4B92D6628848915E0D0D5E8F5FE27 (void);
+// 0x00000008 System.Void Tests.ARGame::.ctor()
+extern void ARGame__ctor_m1C7ED658A67941628D873EF79C166E962B0E0A91 (void);
+// 0x00000009 System.Void Tests.ARGame/<Validate5CubesArePresentOnSceneLoad>d__7::.ctor(System.Int32)
+extern void U3CValidate5CubesArePresentOnSceneLoadU3Ed__7__ctor_mA5A95F040288B2A8266723B56A1944285EDC3E9C (void);
+// 0x0000000A System.Void Tests.ARGame/<Validate5CubesArePresentOnSceneLoad>d__7::System.IDisposable.Dispose()
+extern void U3CValidate5CubesArePresentOnSceneLoadU3Ed__7_System_IDisposable_Dispose_m502F4E01DE062443340B582BAECB4328763122D1 (void);
+// 0x0000000B System.Boolean Tests.ARGame/<Validate5CubesArePresentOnSceneLoad>d__7::MoveNext()
+extern void U3CValidate5CubesArePresentOnSceneLoadU3Ed__7_MoveNext_m18C6A7A39F0083A48401AC2E815968DFC9B174E2 (void);
+// 0x0000000C System.Object Tests.ARGame/<Validate5CubesArePresentOnSceneLoad>d__7::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CValidate5CubesArePresentOnSceneLoadU3Ed__7_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m2BCCBB1B2DEBE1D5B10020620BB6EC8FC67056CF (void);
+// 0x0000000D System.Void Tests.ARGame/<Validate5CubesArePresentOnSceneLoad>d__7::System.Collections.IEnumerator.Reset()
+extern void U3CValidate5CubesArePresentOnSceneLoadU3Ed__7_System_Collections_IEnumerator_Reset_m8DB4114C05417717AB8A76717118BB20FFF47C95 (void);
+// 0x0000000E System.Object Tests.ARGame/<Validate5CubesArePresentOnSceneLoad>d__7::System.Collections.IEnumerator.get_Current()
+extern void U3CValidate5CubesArePresentOnSceneLoadU3Ed__7_System_Collections_IEnumerator_get_Current_m80A6A38BB5C8EB5ED8F9882CD681C224C73137CE (void);
+// 0x0000000F System.Void Tests.ARGame/<ValidateInitialScoreIsZero>d__8::.ctor(System.Int32)
+extern void U3CValidateInitialScoreIsZeroU3Ed__8__ctor_mFECB1FAB63B583FFD0E747092CC2D1BDD8CE3CC3 (void);
+// 0x00000010 System.Void Tests.ARGame/<ValidateInitialScoreIsZero>d__8::System.IDisposable.Dispose()
+extern void U3CValidateInitialScoreIsZeroU3Ed__8_System_IDisposable_Dispose_mB82B0CB553E5F7BF0F9D66090B22ADA033A22F8B (void);
+// 0x00000011 System.Boolean Tests.ARGame/<ValidateInitialScoreIsZero>d__8::MoveNext()
+extern void U3CValidateInitialScoreIsZeroU3Ed__8_MoveNext_m398CA8007616AA3FEB20EEA48D22F706B798ED21 (void);
+// 0x00000012 System.Object Tests.ARGame/<ValidateInitialScoreIsZero>d__8::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CValidateInitialScoreIsZeroU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m4597309CC579DAB552B3A0EF3104D7561E5EBF2C (void);
+// 0x00000013 System.Void Tests.ARGame/<ValidateInitialScoreIsZero>d__8::System.Collections.IEnumerator.Reset()
+extern void U3CValidateInitialScoreIsZeroU3Ed__8_System_Collections_IEnumerator_Reset_mBB25CB88BF5FCD69E2A99A76E2929C6703E4881E (void);
+// 0x00000014 System.Object Tests.ARGame/<ValidateInitialScoreIsZero>d__8::System.Collections.IEnumerator.get_Current()
+extern void U3CValidateInitialScoreIsZeroU3Ed__8_System_Collections_IEnumerator_get_Current_mE81208C2647D468F6C08490FC0616C467F7D4A46 (void);
+// 0x00000015 System.Void Tests.ARGame/<ValidateCubeIsDestroyedOnRaycast>d__9::.ctor(System.Int32)
+extern void U3CValidateCubeIsDestroyedOnRaycastU3Ed__9__ctor_mD96BA6EEFDC70314920EB5727C33CCD86291394F (void);
+// 0x00000016 System.Void Tests.ARGame/<ValidateCubeIsDestroyedOnRaycast>d__9::System.IDisposable.Dispose()
+extern void U3CValidateCubeIsDestroyedOnRaycastU3Ed__9_System_IDisposable_Dispose_m3B11E70BE11A2EB96693EFF383C3C9AE49974955 (void);
+// 0x00000017 System.Boolean Tests.ARGame/<ValidateCubeIsDestroyedOnRaycast>d__9::MoveNext()
+extern void U3CValidateCubeIsDestroyedOnRaycastU3Ed__9_MoveNext_m1FEE2DB78633CBB8BF96DD293AA28D3496525233 (void);
+// 0x00000018 System.Object Tests.ARGame/<ValidateCubeIsDestroyedOnRaycast>d__9::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CValidateCubeIsDestroyedOnRaycastU3Ed__9_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m43F217C7544B31620DABBF880E290F7047E2DD2F (void);
+// 0x00000019 System.Void Tests.ARGame/<ValidateCubeIsDestroyedOnRaycast>d__9::System.Collections.IEnumerator.Reset()
+extern void U3CValidateCubeIsDestroyedOnRaycastU3Ed__9_System_Collections_IEnumerator_Reset_m00FCCAB2A28A04606C2C73C4DC17DF38249D65C7 (void);
+// 0x0000001A System.Object Tests.ARGame/<ValidateCubeIsDestroyedOnRaycast>d__9::System.Collections.IEnumerator.get_Current()
+extern void U3CValidateCubeIsDestroyedOnRaycastU3Ed__9_System_Collections_IEnumerator_get_Current_mB3D0A45CDA9B4AB3BBD43416A418E61462B73D3F (void);
+// 0x0000001B System.Void Tests.ARGame/<ValidateCubeIsDestroyedFromPeakDistance>d__10::.ctor(System.Int32)
+extern void U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10__ctor_m9DB54A42C672C9B699D8B390208C31787A9EA26E (void);
+// 0x0000001C System.Void Tests.ARGame/<ValidateCubeIsDestroyedFromPeakDistance>d__10::System.IDisposable.Dispose()
+extern void U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10_System_IDisposable_Dispose_m740CEE5EFEF7E84620F13DCC516F1C88FDBD32ED (void);
+// 0x0000001D System.Boolean Tests.ARGame/<ValidateCubeIsDestroyedFromPeakDistance>d__10::MoveNext()
+extern void U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10_MoveNext_mB5851A0918623D0087D9C9723E81743414458A65 (void);
+// 0x0000001E System.Object Tests.ARGame/<ValidateCubeIsDestroyedFromPeakDistance>d__10::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m8F1D727532617F44094E93C2B5614FDE1B5BF847 (void);
+// 0x0000001F System.Void Tests.ARGame/<ValidateCubeIsDestroyedFromPeakDistance>d__10::System.Collections.IEnumerator.Reset()
+extern void U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10_System_Collections_IEnumerator_Reset_mF3587DD6806414D197F8D085F83D3D5B6A4E1B20 (void);
+// 0x00000020 System.Object Tests.ARGame/<ValidateCubeIsDestroyedFromPeakDistance>d__10::System.Collections.IEnumerator.get_Current()
+extern void U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10_System_Collections_IEnumerator_get_Current_m649BA3005F6A583A2D9B314691CCDC9EE069EB84 (void);
+// 0x00000021 System.Void Tests.ARGame/<ValidateCubeIsDestroyedFromBeyondPeakDistance>d__11::.ctor(System.Int32)
+extern void U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11__ctor_m5F78C4B8CB92A50DEBA21F77358FB00D19C10CA8 (void);
+// 0x00000022 System.Void Tests.ARGame/<ValidateCubeIsDestroyedFromBeyondPeakDistance>d__11::System.IDisposable.Dispose()
+extern void U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11_System_IDisposable_Dispose_mFC3C79E883601FE50DF8917640456F733B027A95 (void);
+// 0x00000023 System.Boolean Tests.ARGame/<ValidateCubeIsDestroyedFromBeyondPeakDistance>d__11::MoveNext()
+extern void U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11_MoveNext_mE65EAA84808FEA40EE3535A88CB51180928B3A9C (void);
+// 0x00000024 System.Object Tests.ARGame/<ValidateCubeIsDestroyedFromBeyondPeakDistance>d__11::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mC4F06ED18C64322F57BD7AEE73C90DB06E022F8A (void);
+// 0x00000025 System.Void Tests.ARGame/<ValidateCubeIsDestroyedFromBeyondPeakDistance>d__11::System.Collections.IEnumerator.Reset()
+extern void U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11_System_Collections_IEnumerator_Reset_m7ABBEAC540AB5C518CD2EC36BEA0C23D5D32C9E2 (void);
+// 0x00000026 System.Object Tests.ARGame/<ValidateCubeIsDestroyedFromBeyondPeakDistance>d__11::System.Collections.IEnumerator.get_Current()
+extern void U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11_System_Collections_IEnumerator_get_Current_m5A41A8A8A9B9F4BAF9EE0F66F7A3C84BEEDD2503 (void);
+static Il2CppMethodPointer s_methodPointers[38] = 
+{
+	ARGame_SetUp_mB42D48F6CB97F6A79879139CBE451CD0D513CAED,
+	ARGame_Validate5CubesArePresentOnSceneLoad_m4B9D729AA97F3977695BB3C63278E3251E8D984B,
+	ARGame_ValidateInitialScoreIsZero_mCFBD77784C69BF0622AA64BFA5FA6D71EDED9968,
+	ARGame_ValidateCubeIsDestroyedOnRaycast_m6E86508E49AE0150472C29721B5E6A16FCCC4928,
+	ARGame_ValidateCubeIsDestroyedFromPeakDistance_mCAE66937C3205E1BAE4C321DC1D1858D1870BF31,
+	ARGame_ValidateCubeIsDestroyedFromBeyondPeakDistance_m342CFBA2ADFB8D6C0C2A0B04F4A2C046EB4EDCE2,
+	ARGame_tearDown_m065EB9C6A8B4B92D6628848915E0D0D5E8F5FE27,
+	ARGame__ctor_m1C7ED658A67941628D873EF79C166E962B0E0A91,
+	U3CValidate5CubesArePresentOnSceneLoadU3Ed__7__ctor_mA5A95F040288B2A8266723B56A1944285EDC3E9C,
+	U3CValidate5CubesArePresentOnSceneLoadU3Ed__7_System_IDisposable_Dispose_m502F4E01DE062443340B582BAECB4328763122D1,
+	U3CValidate5CubesArePresentOnSceneLoadU3Ed__7_MoveNext_m18C6A7A39F0083A48401AC2E815968DFC9B174E2,
+	U3CValidate5CubesArePresentOnSceneLoadU3Ed__7_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m2BCCBB1B2DEBE1D5B10020620BB6EC8FC67056CF,
+	U3CValidate5CubesArePresentOnSceneLoadU3Ed__7_System_Collections_IEnumerator_Reset_m8DB4114C05417717AB8A76717118BB20FFF47C95,
+	U3CValidate5CubesArePresentOnSceneLoadU3Ed__7_System_Collections_IEnumerator_get_Current_m80A6A38BB5C8EB5ED8F9882CD681C224C73137CE,
+	U3CValidateInitialScoreIsZeroU3Ed__8__ctor_mFECB1FAB63B583FFD0E747092CC2D1BDD8CE3CC3,
+	U3CValidateInitialScoreIsZeroU3Ed__8_System_IDisposable_Dispose_mB82B0CB553E5F7BF0F9D66090B22ADA033A22F8B,
+	U3CValidateInitialScoreIsZeroU3Ed__8_MoveNext_m398CA8007616AA3FEB20EEA48D22F706B798ED21,
+	U3CValidateInitialScoreIsZeroU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m4597309CC579DAB552B3A0EF3104D7561E5EBF2C,
+	U3CValidateInitialScoreIsZeroU3Ed__8_System_Collections_IEnumerator_Reset_mBB25CB88BF5FCD69E2A99A76E2929C6703E4881E,
+	U3CValidateInitialScoreIsZeroU3Ed__8_System_Collections_IEnumerator_get_Current_mE81208C2647D468F6C08490FC0616C467F7D4A46,
+	U3CValidateCubeIsDestroyedOnRaycastU3Ed__9__ctor_mD96BA6EEFDC70314920EB5727C33CCD86291394F,
+	U3CValidateCubeIsDestroyedOnRaycastU3Ed__9_System_IDisposable_Dispose_m3B11E70BE11A2EB96693EFF383C3C9AE49974955,
+	U3CValidateCubeIsDestroyedOnRaycastU3Ed__9_MoveNext_m1FEE2DB78633CBB8BF96DD293AA28D3496525233,
+	U3CValidateCubeIsDestroyedOnRaycastU3Ed__9_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m43F217C7544B31620DABBF880E290F7047E2DD2F,
+	U3CValidateCubeIsDestroyedOnRaycastU3Ed__9_System_Collections_IEnumerator_Reset_m00FCCAB2A28A04606C2C73C4DC17DF38249D65C7,
+	U3CValidateCubeIsDestroyedOnRaycastU3Ed__9_System_Collections_IEnumerator_get_Current_mB3D0A45CDA9B4AB3BBD43416A418E61462B73D3F,
+	U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10__ctor_m9DB54A42C672C9B699D8B390208C31787A9EA26E,
+	U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10_System_IDisposable_Dispose_m740CEE5EFEF7E84620F13DCC516F1C88FDBD32ED,
+	U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10_MoveNext_mB5851A0918623D0087D9C9723E81743414458A65,
+	U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m8F1D727532617F44094E93C2B5614FDE1B5BF847,
+	U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10_System_Collections_IEnumerator_Reset_mF3587DD6806414D197F8D085F83D3D5B6A4E1B20,
+	U3CValidateCubeIsDestroyedFromPeakDistanceU3Ed__10_System_Collections_IEnumerator_get_Current_m649BA3005F6A583A2D9B314691CCDC9EE069EB84,
+	U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11__ctor_m5F78C4B8CB92A50DEBA21F77358FB00D19C10CA8,
+	U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11_System_IDisposable_Dispose_mFC3C79E883601FE50DF8917640456F733B027A95,
+	U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11_MoveNext_mE65EAA84808FEA40EE3535A88CB51180928B3A9C,
+	U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mC4F06ED18C64322F57BD7AEE73C90DB06E022F8A,
+	U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11_System_Collections_IEnumerator_Reset_m7ABBEAC540AB5C518CD2EC36BEA0C23D5D32C9E2,
+	U3CValidateCubeIsDestroyedFromBeyondPeakDistanceU3Ed__11_System_Collections_IEnumerator_get_Current_m5A41A8A8A9B9F4BAF9EE0F66F7A3C84BEEDD2503,
+};
+static const int32_t s_InvokerIndices[38] = 
+{
+	3202,
+	3156,
+	3156,
+	3156,
+	3156,
+	3156,
+	3202,
+	3202,
+	2557,
+	3202,
+	3180,
+	3156,
+	3202,
+	3156,
+	2557,
+	3202,
+	3180,
+	3156,
+	3202,
+	3156,
+	2557,
+	3202,
+	3180,
+	3156,
+	3202,
+	3156,
+	2557,
+	3202,
+	3180,
+	3156,
+	3202,
+	3156,
+	2557,
+	3202,
+	3180,
+	3156,
+	3202,
+	3156,
+};
+extern const CustomAttributesCacheGenerator g_AriumTests_AttributeGenerators[];
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AriumTests_CodeGenModule;
+const Il2CppCodeGenModule g_AriumTests_CodeGenModule = 
+{
+	"AriumTests.dll",
+	38,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	g_AriumTests_AttributeGenerators,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};
